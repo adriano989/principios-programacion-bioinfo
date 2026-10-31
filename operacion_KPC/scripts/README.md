@@ -24,4 +24,3 @@ La calculadora y el transcriptor piden un ID: `KP_UCI_001`, `KP_UCI_002` o `KP_U
 
 Para el lector se puede ingresar `KP_UCI_001.fasta` y la lista `blaKPC-2,blaSHV-11,blaTEM-1,ompK36`.
 
-Las capturas están en `operacion_KPC/resultados/capturas/`.
