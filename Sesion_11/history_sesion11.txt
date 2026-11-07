@@ -1,0 +1,33 @@
+adrianogomez010@cloudshell:~/Sesion_11$ history 31
+  503  pwd
+  504  ls
+  505  mkdir Sesion_11
+  506  cd Sesion_11
+  507  nano identidad_secreta.sh
+  508  chmod +x identidad_secreta.sh
+  509  bash -n identidad_secreta.sh
+  510  bash identidad_secreta.sh
+  511  nano configurador_path.sh
+  512  chmod +x configurador_path.sh
+  513  bash -n configurador_path.sh
+  514  bash configurador_path.sh
+  515  echo "$PATH" | tr ':' '\n' | grep "fastqc"
+  516  source configurador_path.sh
+  517  echo "$PATH" | tr ':' '\n' | grep "fastqc"
+  518  nano bitacora_operaciones.sh
+  519  chmod +x bitacora_operaciones.sh
+  520  bash -n bitacora_operaciones.sh
+  521  bash bitacora_ope raciones.sh
+  522  nano agente_fantasma.sh
+  523  bash bitacora_operaciones.sh
+  524  chmod +x agente_fantasma.sh
+  525  bash -n agente_fantasma.sh
+  526  bash agente_fantasma.sh
+  527  echo "Terminal tras bash: local=$CLAVE_LOCAL; exportada=$CLAVE_AGENTE"
+  528  source agente_fantasma.sh
+  529  echo "Terminal tras source: local=$CLAVE_LOCAL; exportada=$CLAVE_AGENTE"
+  530  ls
+  531  git commit -m "Sesion 11: Operación Expediente Genoma"
+  532  history
+  533  history 31
+adrianogomez010@cloudshell:~/Sesion_11$

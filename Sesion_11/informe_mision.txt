@@ -1,0 +1,6 @@
+OPERACION EXPEDIENTE GENOMA
+Responsable : Jose Adriano Gomez Corcuera
+Muestra     : Escherichia coli_K-12
+Herramienta : fastqc
+Fecha       : 2026-11-07
+Estado: $ESTADO
